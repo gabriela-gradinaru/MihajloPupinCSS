@@ -1,0 +1,34 @@
+table { 
+    border-collapse: collapse;
+    font-family: 'Lato', sans-serif;
+}        
+
+th { 
+    padding: 18px 12px;
+    text-align: left;
+}
+
+td { 
+    padding: 12px;
+}
+
+td.left { 
+    text-align: left;
+}
+
+th, td { 
+    border: 1px solid #e6e6e6;
+}
+
+tr { 
+    background-color: #ededed;
+}
+
+tr.even { 
+    background-color: #f7f7f7;
+}
+
+#heading { 
+    background-color: rgb(27, 148, 218);
+    color: white;
+}
